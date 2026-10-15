@@ -1,0 +1,15 @@
+package: community.lazycat.app.silo
+version: 2026.10.15
+name: SILO
+description: "S3-compatible object storage, a MinIO fork maintained by PGSTY"
+min_os_version: 1.5.0
+author: pgsty
+license: AGPL-3.0
+homepage: https://github.com/pgsty/silo
+locales:
+  zh:
+    name: "SILO"
+    description: "S3 兼容对象存储（MinIO 社区分支，PGSTY 维护）：带完整 Web 控制台，可作 PostgreSQL 备份仓库或通用对象存储"
+  en:
+    name: "SILO"
+    description: "S3-compatible object storage. A MinIO fork maintained by PGSTY with the full web console"
