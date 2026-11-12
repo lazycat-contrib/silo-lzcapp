@@ -1,5 +1,5 @@
 package: community.lazycat.app.silo
-version: 2026.11.9
+version: 2026.11.12
 name: SILO
 description: "S3-compatible object storage, a MinIO fork maintained by PGSTY"
 min_os_version: 1.5.0
